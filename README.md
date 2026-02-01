@@ -1,4 +1,4 @@
-# Automation-Of-Dam-Gates:
+# Automation-Of-Dam-Gates:-
 **Develop a system to automate the opening of dam gates based on water levels, displaying the status of gates, water level (open/closed) on an interface.**
 
 # Introduction:
